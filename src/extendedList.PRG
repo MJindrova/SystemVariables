@@ -100,9 +100,7 @@ FOR m.lii=1 TO m.liEL_Count
        ENDIF
        IF m.laEL_Vars(m.lii)="_TEXT"
           _TEXT=m.laEL_DValues(m.lii) && this is workarround - START
-          * if you set _TEXT to valid value 
-          * - and set _THROTTLE to -1, then VFP close file associated with _TEXT value always
-          * - and set _THROTTLE to >0, then VFP close file associated with _TEXT value sometime
+          * Erorr event close file associated with _TEXT value
        ENDIF
     ENDIF
     

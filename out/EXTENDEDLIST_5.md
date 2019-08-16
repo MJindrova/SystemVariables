@@ -40,7 +40,7 @@
 | \_CONVERTER | C | `C:\PROGRAM FILES (X86)\DEVSTUDIO\VFP\CONVERT.APP` |
 | \_COVERAGE | C | ` ` |
 | \_DBLCLICK | N | `0,50` |
-| \_DIARYDATE | D | `15.08.19` |
+| \_DIARYDATE | D | `16.08.19` |
 | \_FOXDOC | C | ` ` |
 | \_FOXGRAPH | C | ` ` |
 | \_GENGRAPH | C | ` ` |
@@ -51,13 +51,15 @@
 | \_INDENT | N | `0` |
 | \_LMARGIN | N | `0` |
 | \_MLINE | N | `0` |
-| \_PAGENO | N | `1` |
+| \_NETWARE | C | ` ` |
+| \_ORACLE | C | ` ` |
+| \_PAGENO | N | `2` |
 | \_PBPAGE | N | `1` |
 | \_PCOLNO | N | `0` |
 | \_PCOPIES | N | `1` |
 | \_PECODE | C | ` ` |
 | \_PLENGTH | N | `66` |
-| \_PLINENO | N | `65` |
+| \_PLINENO | N | `2` |
 | \_PLOFFSET | N | `0` |
 | \_PQUALITY | L | `.F.` |
 | \_PRETEXT | C | ` ` |
@@ -68,6 +70,7 @@
 | \_SCCTEXT | C | `C:\PROGRAM FILES (X86)\DEVSTUDIO\VFP\SCCTEXT.PRG` |
 | \_SHELL | C | ` ` |
 | \_SPELLCHK | C | `C:\PROGRAM FILES (X86)\DEVSTUDIO\VFP\SPELLCHK.APP` |
+| \_SQLSERVER | C | ` ` |
 | \_STARTUP | C | ` ` |
 | \_TALLY | N | `0` |
 | \_TEXT | N | `-1` |

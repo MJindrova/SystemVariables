@@ -43,7 +43,7 @@
 | \_CONVERTER | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\CONVERT.APP` |
 | \_COVERAGE | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\COVERAGE.APP` |
 | \_DBLCLICK | N | `0,50` |
-| \_DIARYDATE | D | `15.08.19` |
+| \_DIARYDATE | D | `16.08.19` |
 | \_FOXDOC | C | ` ` |
 | \_FOXGRAPH | C | ` ` |
 | \_FOXREF | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\FOXREF.APP` |
@@ -61,7 +61,9 @@
 | \_LMARGIN | N | `0` |
 | \_MENUDESIGNER | C | ` ` |
 | \_MLINE | N | `0` |
+| \_NETWARE | C | ` ` |
 | \_OBJECTBROWSER | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\OBJECTBROWSER.APP` |
+| \_ORACLE | C | ` ` |
 | \_PAGENO | N | `2` |
 | \_PAGETOTAL | N | `0` |
 | \_PBPAGE | N | `1` |
@@ -69,7 +71,7 @@
 | \_PCOPIES | N | `1` |
 | \_PECODE | C | ` ` |
 | \_PLENGTH | N | `66` |
-| \_PLINENO | N | `20` |
+| \_PLINENO | N | `23` |
 | \_PLOFFSET | N | `0` |
 | \_PQUALITY | L | `.F.` |
 | \_PRETEXT | C | ` ` |
@@ -85,6 +87,7 @@
 | \_SCCTEXT | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\SCCTEXT.PRG` |
 | \_SHELL | C | ` ` |
 | \_SPELLCHK | C | ` ` |
+| \_SQLSERVER | C | ` ` |
 | \_STARTUP | C | ` ` |
 | \_TALLY | N | `0` |
 | \_TASKLIST | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\TASKLIST.APP` |

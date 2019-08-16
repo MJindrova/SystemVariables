@@ -16,7 +16,7 @@
 | \_COVERAGE | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\COVERAGE.APP` |
 | \_CUROBJ | N | `0` |
 | \_DBLCLICK | N | `0,50` |
-| \_DIARYDATE | D | `15.08.19` |
+| \_DIARYDATE | D | `16.08.19` |
 | \_DOS | L | `.F.` |
 | \_FOXCODE | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\FOXCODE.DBF` |
 | \_FOXDOC | C | ` ` |
@@ -38,7 +38,9 @@
 | \_MAC | L | `.F.` |
 | \_MENUDESIGNER | C | ` ` |
 | \_MLINE | N | `0` |
+| \_NETWARE | C | ` ` |
 | \_OBJECTBROWSER | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\OBJECTBROWSER.APP` |
+| \_ORACLE | C | ` ` |
 | \_PADVANCE | C | `FORMFEED` |
 | \_PAGENO | N | `1` |
 | \_PAGETOTAL | N | `0` |
@@ -51,7 +53,7 @@
 | \_PEJECT | C | `NONE` |
 | \_PEPAGE | N | `32767` |
 | \_PLENGTH | N | `66` |
-| \_PLINENO | N | `53` |
+| \_PLINENO | N | `55` |
 | \_PLOFFSET | N | `0` |
 | \_PPITCH | C | `DEFAULT` |
 | \_PQUALITY | L | `.F.` |
@@ -69,12 +71,13 @@
 | \_SCREEN | O | `Object` |
 | \_SHELL | C | ` ` |
 | \_SPELLCHK | C | ` ` |
+| \_SQLSERVER | C | ` ` |
 | \_STARTUP | C | ` ` |
 | \_TABS | C | ` ` |
 | \_TALLY | N | `0` |
 | \_TASKLIST | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\TASKLIST.APP` |
 | \_TASKPANE | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\TASKPANE.APP` |
-| \_TEXT | N | `15` |
+| \_TEXT | N | `17` |
 | \_THROTTLE | N | `0,00` |
 | \_TOOLBOX | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 9\TOOLBOX.APP` |
 | \_TOOLTIPTIMEOUT | N | `-1,00` |

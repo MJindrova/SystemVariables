@@ -43,7 +43,7 @@
 | \_CONVERTER | C | `G:\MICROSOFT VISUAL FOXPRO 8\CONVERT.APP` |
 | \_COVERAGE | C | `G:\MICROSOFT VISUAL FOXPRO 8\COVERAGE.APP` |
 | \_DBLCLICK | N | `0.50` |
-| \_DIARYDATE | D | `15.08.19` |
+| \_DIARYDATE | D | `16.08.19` |
 | \_FOXDOC | C | ` ` |
 | \_FOXGRAPH | C | ` ` |
 | \_FOXREF | C | `G:\MICROSOFT VISUAL FOXPRO 8\FOXREF.APP` |
@@ -60,7 +60,9 @@
 | \_INDENT  | N | `0` |
 | \_LMARGIN | N | `0` |
 | \_MLINE | N | `0` |
+| \_NETWARE | C | ` ` |
 | \_OBJECTBROWSER | C | `G:\MICROSOFT VISUAL FOXPRO 8\OBJECTBROWSER.APP` |
+| \_ORACLE | C | ` ` |
 | \_PAGENO | N | `2` |
 | \_PAGETOTAL | N | `0` |
 | \_PBPAGE | N | `1` |
@@ -68,7 +70,7 @@
 | \_PCOPIES | N | `1` |
 | \_PECODE | C | ` ` |
 | \_PLENGTH | N | `66` |
-| \_PLINENO | N | `15` |
+| \_PLINENO | N | `18` |
 | \_PLOFFSET | N | `0` |
 | \_PQUALITY | L | `.F.` |
 | \_PRETEXT | C | ` ` |
@@ -81,6 +83,7 @@
 | \_SCCTEXT | C | `G:\MICROSOFT VISUAL FOXPRO 8\SCCTEXT.PRG` |
 | \_SHELL | C | ` ` |
 | \_SPELLCHK | C | ` ` |
+| \_SQLSERVER | C | ` ` |
 | \_STARTUP | C | ` ` |
 | \_TALLY | N | `0` |
 | \_TASKLIST | C | `G:\MICROSOFT VISUAL FOXPRO 8\TASKLIST.APP` |

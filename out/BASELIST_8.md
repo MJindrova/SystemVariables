@@ -16,7 +16,7 @@
 | \_COVERAGE | C | `G:\MICROSOFT VISUAL FOXPRO 8\COVERAGE.APP` |
 | \_CUROBJ | N | `0` |
 | \_DBLCLICK | N | `0.50` |
-| \_DIARYDATE | D | `15.08.19` |
+| \_DIARYDATE | D | `16.08.19` |
 | \_DOS | L | `.F.` |
 | \_FOXCODE | C | `C:\PROGRAM FILES (X86)\MICROSOFT VISUAL FOXPRO 8\FOXCODE.DBF` |
 | \_FOXDOC | C | ` ` |
@@ -37,7 +37,9 @@
 | \_LMARGIN | N | `0` |
 | \_MAC | L | `.F.` |
 | \_MLINE | N | `0` |
+| \_NETWARE | C | ` ` |
 | \_OBJECTBROWSER | C | `G:\MICROSOFT VISUAL FOXPRO 8\OBJECTBROWSER.APP` |
+| \_ORACLE | C | ` ` |
 | \_PADVANCE | C | `FORMFEED` |
 | \_PAGENO | N | `1` |
 | \_PAGETOTAL | N | `0` |
@@ -50,7 +52,7 @@
 | \_PEJECT | C | `NONE` |
 | \_PEPAGE | N | `32767` |
 | \_PLENGTH | N | `66` |
-| \_PLINENO | N | `52` |
+| \_PLINENO | N | `54` |
 | \_PLOFFSET | N | `0` |
 | \_PPITCH | C | `DEFAULT` |
 | \_PQUALITY | L | `.F.` |
@@ -65,6 +67,7 @@
 | \_SCREEN  | O | `Object` |
 | \_SHELL | C | ` ` |
 | \_SPELLCHK | C | ` ` |
+| \_SQLSERVER | C | ` ` |
 | \_STARTUP | C | ` ` |
 | \_TABS | C | ` ` |
 | \_TALLY | N | `0` |
