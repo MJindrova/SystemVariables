@@ -63,6 +63,12 @@ ON ERROR m.llErr=.T.
 
 FOR m.lii=1 TO m.liEL_Count
     *?m.lii, m.laEL_Vars(m.lii)
+    IF TYPE("_WIN64")="L"
+       IF m.laEL_Vars(m.lii)=="_WIN64" OR m.laEL_Vars(m.lii)=="_SQLSERVER" OR m.laEL_Vars(m.lii)=="_ORACLE"
+          m.laEL_Types(m.lii)="R"
+          LOOP
+       ENDIF
+    ENDIF
 
     m.laEL_Types(m.lii)=TYPE(m.laEL_Vars(m.lii))
     m.laEL_DValues(m.lii)=EVAL(m.laEL_Vars(m.lii))

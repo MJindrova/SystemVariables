@@ -3,7 +3,7 @@ BASELIST_x.md contains list of system variables.
 EXTENDEDLIST_x.md contains list of system variables group by "Read Only", "Restricted" and "Metuzalem".
 
 ## VFP Compatibility
-VFP 5, VFP 6, VFP 7, VFP 8, VFP 9
+VFP 5, VFP 6, VFP 7, VFP 8, VFP 9, VFP Advanced
 
 ## VFP 5 system variables
 [Base list](out/BASELIST_5.md)
@@ -27,4 +27,5 @@ VFP 5, VFP 6, VFP 7, VFP 8, VFP 9
 
 ## VFP Advanced system variables
 [Base list](out/BASELIST_A.md)
+[Extended list](out/EXTENDEDLIST_A.md)
 
